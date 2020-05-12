@@ -1,0 +1,67 @@
+body header img {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+main {
+
+}
+
+.contact {
+	padding-right: 27px;
+	width: auto;
+	text-align: center;
+	padding-left: 0px;
+
+}
+.intro {
+	width: 80%;
+
+
+}
+.intro p {
+	width: 100%;
+
+
+}
+aside nav a:link  {
+	text-decoration: none;
+	color: #0A8921;
+	font-weight: bolder;
+	font-size: 1.1em;
+}
+aside nav a:hover {
+	font-style: italic;
+	font-weight: lighter;
+	color: #881366;
+}
+
+aside nav {
+	padding-left: 9px;
+
+}
+body {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+footer   {
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center 0%;
+}
+footer img  {
+	
+	height: 100%;
+}
+#choose {
+	text-align: center;
+	display: block;
+
+
+}
+#NASA {
+	display: block;
+	margin-left: 47px;
+	text-align: center;
+}
+body li {
+	list-style-type: none;
+}
